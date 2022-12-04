@@ -1,0 +1,32 @@
+[
+  {
+    "PIP": "Kolomiy Yehor",
+    "Faculty": {
+		"Title": "CSC",
+		"Department": "CS-1",
+		"Branch": "1-0-1"
+	},
+	"Cathedra": "Math Analysis",
+	"Laboratory" : "101",
+	"Role": {
+		"Title": "Scientist",
+		"StartDate": "09.09.2019",
+		"EndDate": "31.05.2021"
+	}
+  },
+  {
+    "PIP": "Kolomiy Yehor",
+    "Faculty": {
+		"Title": "CSC",
+		"Department": "CS-1",
+		"Branch": "1-0-1"
+	},
+	"Cathedra": "Math Analysis",
+	"Laboratory" : "101",
+	"Role": {
+		"Title": "Scientist",
+		"StartDate": "09.09.2019",
+		"EndDate": "31.05.2021"
+	}
+  }
+]
